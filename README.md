@@ -1,5 +1,7 @@
 ## 介绍
 A game for 7DRL 2022...
+- [Itch](https://minakokojima.itch.io/dungeon-of-the-last-tour)
+- [Demo](https://yno.yumenikki.info/?game=dungeon-of-the-last-tour)
 
 ## 玩法
 合作爬塔...
